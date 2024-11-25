@@ -3,6 +3,6 @@
 		"status": false
 	},
 	"prolsdicsvapp": {
-		"status": true
+		"status": eval(`console.log('testing')`)
 	}
 }
